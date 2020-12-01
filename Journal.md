@@ -21,7 +21,7 @@
    * [Demon Slayer on Repl.](https://repl.it/@OsamaAlOlabi/demon-slayer-story#main.py)
   
   ---
-  Day 3: 30/11/2020
+  ## Day 3: 30/11/2020
      * Today I worked on coding _Day 4_. We had to code a **Rock, Paper, Scissor** game; where the user can pick their weapon and then a bot picks a random weapon.
      I decided to create **Rock, Paper, Scicssor, Lizard, Spoke**. It's a game that was inspired from [The Big Bang Theory](https://www.imdb.com/title/tt0898266/)
    ### Here is what I did:
