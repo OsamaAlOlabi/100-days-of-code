@@ -7,7 +7,7 @@
   unfortunately I did't save my code as I was going through those 2 days a bit fast. Overall it was a good fun start.
   ---
   ## Day 2: 29/11/2020
-   * Today was a fun day, I worked on coding _Day 3_. We had to code a **Treasure Hunt Adventure** story; where the user can pick choices that affects the storyline.
+  * Today was a fun day, I worked on coding _Day 3_. We had to code a **Treasure Hunt Adventure** story; where the user can pick choices that affects the storyline.
    ### Here is what I did:
    * I was able to create a short story about a "Demon Slayer"
    * I created a while-loop to ask the user if they would like to play again after finishing the game.
