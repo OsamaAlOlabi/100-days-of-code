@@ -38,3 +38,20 @@
    * [Rock, Paper, Scissor, Lizard, Spoke on GitHub.](https://github.com/OsamaAlOlabi/rock-paper-scissor-lizard-spoke)
    * [Rock, Paper, Scissor, Lizard, Spoke on Repl.](https://repl.it/@OsamaAlOlabi/rock-paper-scissor-lizard-spoke#main.py)
    ---
+   ## Day 4: 1/12/2020
+  * Today I worked on coding _Day 5_. The idea was to create a password generator for the user. The password could contain letters, numbers, and symbols based on what the user wants. Sadly, I was not able to finish this project today because of **LIFE**. So stay tuned for tomorrow.
+     ---
+   ## Day 5: 1/12/2020
+   * I was able to finish the password generator. I still have a lot of ideas to add to it later on in the future.
+   ### Here is what I did:
+   * I was able to create a string from a list using the ''.join
+   * I was able to randomise the position of the letters/numbers/symbols of that string.
+   
+   ## Things I want to add:
+   * I'd like to create a GUI for this code
+   * I would like to add a while loop to ask user if he wants another password
+   * If user enters a value != int -> then show an error and ask them to type an int
+   
+   ## Challenge for my self:
+   * This is something I don't know how to approach at all. But copying the result password to the clipboard right away would be a great addition.
+  
