@@ -47,11 +47,14 @@
    * I was able to create a string from a list using the ''.join
    * I was able to randomise the position of the letters/numbers/symbols of that string.
    
-   ## Things I want to add:
+   ### Things I want to add:
    * I'd like to create a GUI for this code
    * I would like to add a while loop to ask user if he wants another password
    * If user enters a value != int -> then show an error and ask them to type an int
    
-   ## Challenge for my self:
+   ### Challenge for my self:
    * This is something I don't know how to approach at all. But copying the result password to the clipboard right away would be a great addition.
-  
+   
+   ### Links to code:
+   * [Password Generator Github](https://github.com/OsamaAlOlabi/Password-Generator)
+   * [Password Generator Repl](https://repl.it/@OsamaAlOlabi/Password-Generator#main.py)
